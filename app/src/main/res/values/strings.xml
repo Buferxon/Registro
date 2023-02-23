@@ -1,0 +1,10 @@
+<resources>
+    <string name="titulo">Registro</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellido">Apellido:</string>
+    <string name="direccion">Dirección:</string>
+    <string name="celular">Celular</string>
+    <string name="id">Id:</string>
+    <string name="bt1">Enviar</string>
+    <string name="vacio">           </string>
+</resources>
